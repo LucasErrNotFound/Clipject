@@ -1,4 +1,4 @@
-#include <../include/LinkValidator.h>
+#include "../include/LinkValidator.h"
 #include <regex>
 #include <vector>
 

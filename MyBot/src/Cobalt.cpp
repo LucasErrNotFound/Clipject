@@ -1,5 +1,5 @@
-#include <../include/Cobalt.h>
-#include <../include/Config.h>
+#include "../include/Cobalt.h"
+#include "../include/Config.h"
 #include <curl/curl.h>
 #include <json/json.h>
 #include <sstream>
