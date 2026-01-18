@@ -1,4 +1,4 @@
-# Clipject - Social Media Downloader Discord Bot
+# Clipject - Social Media Clip Downloader Discord Bot
 
 A Discord bot built with [D++](https://github.com/brainboxdotcc/DPP) that downloads and injects media content from popular social platforms directly into your Discord server. Powered by [Cobalt API](https://github.com/imputnet/cobalt) for reliable media extraction.
 
