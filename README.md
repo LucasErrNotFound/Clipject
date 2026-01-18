@@ -25,7 +25,7 @@ A Discord bot built with [D++](https://github.com/brainboxdotcc/DPP) that downlo
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/clipject.git
+git clone https://github.com/LucasErrNotFound/clipject.git
 cd clipject
 ```
 
