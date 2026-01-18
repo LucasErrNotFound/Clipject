@@ -10,13 +10,13 @@ int main() {
 		if (event.command.get_command_name() == "inject") {
 			BotCommands::handleInjectCommand(event, bot);
 		}
-		});
+	});
 
 	bot.on_ready([&bot](const dpp::ready_t& event) {
 		if (dpp::run_once<struct register_bot_commands>()) {
 			BotCommands::registerCommands(bot);
 		}
-		});
+	});
 
 	bot.start(dpp::st_wait);
 	return 0;
