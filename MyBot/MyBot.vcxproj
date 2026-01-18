@@ -188,6 +188,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="MyBot.cpp" />
+    <ClCompile Include="src\Config.cpp" />
+    <ClCompile Include="src\BotCommands.cpp" />
+    <ClCompile Include="src\Cobalt.cpp" />
+    <ClCompile Include="src\ClipDownloader.cpp" />
+    <ClCompile Include="src\LinkValidator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dependencies\include\dpp-10.1\dpp\appcommand.h" />
@@ -283,6 +288,11 @@
     <ClInclude Include="dependencies\include\dpp-10.1\dpp\wsclient.h" />
     <ClInclude Include="dependencies\include\dpp-10.1\dpp\zlibcontext.h" />
     <ClInclude Include="MyBot.h" />
+    <ClInclude Include="include\Config.h" />
+    <ClInclude Include="include\BotCommands.h" />
+    <ClInclude Include="include\Cobalt.h" />
+    <ClInclude Include="include\ClipDownloader.h" />
+    <ClInclude Include="include\LinkValidator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
