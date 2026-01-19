@@ -10,7 +10,6 @@ A Discord bot built with [D++](https://github.com/brainboxdotcc/DPP) that downlo
   - Facebook (videos, reels, watch links)
 - 📤 Automatic upload to Discord channels
 - ⚡ Fast processing with real-time status updates
-- 🔒 Ephemeral command responses for privacy
 - 🗑️ Automatic cleanup of temporary files
 - 🏗️ Modular architecture with separation of concerns
 
